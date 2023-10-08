@@ -15,6 +15,8 @@ This project shows various statistics about bikesharing such as riding time, tak
 ### Files used
 Include the files used
 Files used for this project include csv (data collection) and python (data analysis) files
+CSV Files used are chicago , washington and new_york_city data
+
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 Pandas Documentation link was consulted to crosscheck syntax - https://pandas.pydata.org/docs/user_guide/groupby.html
