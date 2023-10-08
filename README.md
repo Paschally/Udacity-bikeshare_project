@@ -17,5 +17,6 @@ Include the files used
 Files used for this project include csv (data collection) and python (data analysis) files
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-Additional assistance was gooten from using ChatGPT.
+Pandas Documentation link was consulted to crosscheck syntax - https://pandas.pydata.org/docs/user_guide/groupby.html
+
 
